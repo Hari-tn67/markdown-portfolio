@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Welcome Image](https://github.com/Hari-tn67/markdown-portfolio/blob/add-images-links/maxresdefault.jpg)
