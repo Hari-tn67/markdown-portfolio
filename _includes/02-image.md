@@ -1,1 +1,1 @@
-![Welcome Image](https://github.com/Hari-tn67/markdown-portfolio/blob/add-images-links/maxresdefault.jpg)
+![Welcome Image](https://raw.githubusercontent.com/Hari-tn67/markdown-portfolio/add-images-links/maxresdefault.jpg)
