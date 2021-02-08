@@ -1,2 +1,2 @@
-**AS400**,**UNIX**
-*Informix*
+`Programming :` **AS400** , **UNIX**
+`DB :` *informix*
