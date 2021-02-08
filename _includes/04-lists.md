@@ -1,0 +1,3 @@
+- Pyhton
+- Open Source
+- Freelance
