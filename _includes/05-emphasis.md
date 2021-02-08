@@ -1,2 +1,2 @@
 **AS400**,**UNIX**
-* *Informix* *
+*Informix*
